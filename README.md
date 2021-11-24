@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### ⚡ Fun fact: School 21
 <!--
 **MamedovOFF/MamedovOFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,8 @@
 ### Hi there 👋
-### ⚡ Fun fact: School 21
+### ⚡ I’m currently learningt: School 21
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
 <!--
 **MamedovOFF/MamedovOFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

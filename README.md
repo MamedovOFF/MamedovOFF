@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ### ⚡ I’m currently learningt: School 21
-
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ikael)
 <code><img src="https://c.tenor.com/aT15akmpipIAAAAC/naruto-uzumaki-sonriendo.gif"></code>
 
 ### languages and tools::

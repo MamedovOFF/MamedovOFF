@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### ⚡ I’m currently learningt: School 21
+### ⚡ I’m currently learningt: School 42
 
 ![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/spurple)
 

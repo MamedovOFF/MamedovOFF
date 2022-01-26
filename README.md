@@ -14,7 +14,7 @@
 
 
 ### Codewars: 
-<code><img height="30" src="https://www.codewars.com/users/MamedovOFF/badges/small"></code>  
+<code><a href="https://www.codewars.com/users/MamedovOFF"><img height="30" src="https://www.codewars.com/users/MamedovOFF/badges/small"></a></code>  
 <!--
 **MamedovOFF/MamedovOFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

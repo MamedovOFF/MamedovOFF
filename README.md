@@ -1,4 +1,5 @@
 ### Hi there 👋 
+<code><img src="https://thumbs.gfycat.com/LividPleasedAffenpinscher-max-1mb.gif"></code> 
 ### ⚡ I’m currently learningt: School 42
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MamedovOFF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -11,7 +12,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code> 
 
-<code><img height="30" src="https://thumbs.gfycat.com/LividPleasedAffenpinscher-max-1mb.gif"></code> 
+
 
 
 ### Codewars: 

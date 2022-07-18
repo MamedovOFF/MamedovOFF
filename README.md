@@ -11,6 +11,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code> 
 
+<code><img height="30" src="https://thumbs.gfycat.com/LividPleasedAffenpinscher-max-1mb.gif"></code> 
+
 
 ### Codewars: 
 <code><a href="https://www.codewars.com/users/MamedovOFF"><img height="30" src="https://www.codewars.com/users/MamedovOFF/badges/small"></a></code>  

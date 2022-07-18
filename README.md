@@ -1,6 +1,5 @@
-### Hi there 👋 
-<code><img src="https://thumbs.gfycat.com/LividPleasedAffenpinscher-max-1mb.gif"></code> 
-### ⚡ I’m currently learningt: School 42
+### Hi there 👋
+### ⚡ I’m currently learningt: School 42  <code><img src="https://thumbs.gfycat.com/LividPleasedAffenpinscher-max-1mb.gif"></code> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MamedovOFF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

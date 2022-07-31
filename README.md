@@ -1,9 +1,15 @@
-### Hi there 👋 
-### ⚡ I’m currently learningt: School 42
-<code><img src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif"/></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MamedovOFF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<table align="center">
+  <tr href="https://github.com/anuraghazra/github-readme-stats">
+    <th>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamedovOFF&langs_count=5&layout=compact" />
+    </th>
+    <th>
+      <img src="https://github-readme-stats.vercel.app/api?username=MamedovOFF&show_icons=true&theme=radical" />
+    </th>
+  </tr>
+</table>
 
 ### languages and tools:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>

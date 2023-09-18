@@ -1,4 +1,13 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamedovOFF&langs_count=8" />
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamedovOFF&langs_count=8" /></p>
+
+<p>
+<!--   &nbsp; -->
+  
+![Leetcode Stats](https://leetcard.jacoblin.cool/MamedovOFF)
+</p>
+
+
+
 
 ### Languages:
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
